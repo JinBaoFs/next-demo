@@ -1,0 +1,21 @@
+{
+  "HomePage": {
+    "title": "亚伦的 Chrome 扩展商店",
+    "description": "亚伦创建的 Chrome 扩展集合。",
+    "hello": "你好，世界！"
+  },
+  "Metadata": {
+    "title": "亚伦的 Chrome 扩展商店",
+    "description": "亚伦精心维护和独立开发的优秀扩展程序商店。",
+    "keywords": "Chrome 扩展, 亚伦, 扩展商店"
+  },
+  "Locales": {
+    "en": "英语",
+    "es": "西班牙语",
+    "fr": "法语",
+    "zh": "中文"
+  },
+  "Common": {
+    "language": "语言"
+  }
+}

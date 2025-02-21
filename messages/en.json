@@ -1,0 +1,14 @@
+{
+  "HomePage": {
+    "title": "Aaron's Chrome Extension Store",
+    "description": "A collection of Chrome extensions created by Aaron.",
+    "hello": "Hello, world!"
+  },
+  "Metadata": {
+    "title": "Aaron's Chrome Extension Store",
+    "description": "A curated store of excellent extensions maintained and independently developed by Aaron.",
+    "keywords": "Chrome extensions, Aaron, extension store"
+  }
+}
+
+
